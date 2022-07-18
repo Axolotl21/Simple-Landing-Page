@@ -1,2 +1,1 @@
-# Web-Dasar
-Belajar web dasar dengan HTML, CSS dan Javascript
+Creating a simple landing page 
